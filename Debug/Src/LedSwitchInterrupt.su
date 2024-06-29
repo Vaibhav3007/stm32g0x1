@@ -1,0 +1,2 @@
+../Src/LedSwitchInterrupt.c:13:5:main	40	static
+../Src/LedSwitchInterrupt.c:43:6:EXTI4_15_IRQHandler	8	static
